@@ -1,0 +1,40 @@
+C:\Users\sneha>python
+Python 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=5
+>>> a
+5
+>>> type(a)
+<class 'int'>
+>>> a="Ravi"
+>>> a
+'Ravi'
+>>> type(a)
+<class 'str'>
+>>> a=10
+>>> b=20
+>>> a,b=b,a
+>>> a
+20
+>>> b
+10
+>>> name=input("Enter Name")
+Enter NameStudents
+>>> print("Welcome ", name)
+Welcome  Students
+>>> print("Welcome", input("ENter Name"))
+ENter NameStudents
+Welcome Students
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> int(input("Enter no1 : "))+int(input("Enter no2: "))
+Enter no1 : 12
+Enter no2: 4
+16
+>>> ^Z

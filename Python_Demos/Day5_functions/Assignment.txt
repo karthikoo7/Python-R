@@ -1,0 +1,32 @@
+Q1. Factorial using Function
+Write a function to calculate factorial of a number.
+
+Q2. Check Prime Number
+Write a function to check whether a number is prime.
+
+
+Q3. Count Words in Sentence
+Write a function to count number of words in a sentence.
+
+#----------Map/Filter
+1. Write a function that takes a list of numbers and returns a list of their squares using map().
+
+
+2. Convert a list of strings to uppercase using map().
+
+3. Add 10 to each number in a list.
+
+4. Return a list containing length of each word.
+
+5. Write a function to filter odd numbers.
+
+
+6. Filter Strings Longer than 5 Characters. 
+Return words with length > 5.
+
+
+7. From a list of numbers:
+
+First filter even numbers and Then square them
+
+8. Convert list of string numbers to integers.

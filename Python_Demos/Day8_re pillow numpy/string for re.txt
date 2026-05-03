@@ -1,0 +1,28 @@
+Suraj's phone number is +91-9876543210, and he recently updated his Aadhaar number to 1234-5678-9123. You can reach him at Suraj.kumar@example.com if you have any questions.
+
+Training Center
+Office No:2, 1st Floor, Gokhale Sanchit, Above Hotel Aamaya, BMCC Road, Deccan Gymkhana, Pune: 411004 Maharashtra, INDIA
+
+info@know-it.co.in
+
+Vaibhav:9823434616
+Amit:7768023636
+Milind:9021479888
+Know-IT Office:020-25648081/82
+
+Corporate Office:
+1 B, I-Space, Survey. No. 51, Off Pune - Mumbai Bypass Road, Bavdhan Khurd, Pune – 411021.
+
+
+#----------------------------------------------------------------------------------
+
+
+s = """
+Contact us at support@example.com or info@mydomain.org for queries.
+You can also reach out to Mr. Sharma at +91-9876543210 or 9123456789.
+His PAN card number is ABCDE1234F and Aadhaar is 1234 5678 9012.
+Ms. Neha’s email is neha.kumar23@gmail.com and her phone is 9090909090.
+Her PAN: AAAAA9999A, Aadhaar: 9876-5432-1098.
+Warehouse PIN codes are 560001, 110092, and 400001.
+For more info, email: helpdesk@company.co.in or call at (022) 23456789.
+"""

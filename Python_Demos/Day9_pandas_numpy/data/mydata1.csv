@@ -1,0 +1,44 @@
+order no,OrderDate,Region,cust,Item,Units,Unit Cost,Total
+52,2020-12-04,Central,Jai,Marker,94,19.99,1879.06
+23,2019-07-29,East,Priya,Marker,81,19.99,1619.1899999999998
+34,2020-02-01,Central,Smita,Marker,87,15.0,1305.0
+32,2019-12-29,East,Priya,Pen Set,74,15.99,1183.26
+49,2020-10-14,West,Thompson,Marker,57,19.99,1139.4299999999998
+45,2020-08-07,Central,Kavita,Pen Set,42,23.95,1005.9
+12,2019-01-23,Central,Kavita,Marker,50,19.99,999.4999999999999
+46,2020-08-24,West,Soniya,Desk,3,275.0,825.0
+41,2020-05-31,Central,Gayatri,Marker,80,8.99,719.2
+44,2020-07-21,Central,Morgan,Pen Set,55,12.49,686.95
+42,2020-06-17,Central,Kavita,Desk,5,125.0,625.0
+28,2019-10-22,East,Jones,Pen,64,8.99,575.36
+14,2019-02-26,Central,Gayatri,Pen,27,19.99,539.7299999999999
+20,2019-06-08,East,Jones,Marker,60,8.99,539.4
+30,2019-11-25,Central,Kavita,Pen Set,96,4.99,479.04
+39,2020-04-27,East,Howard,Pen,96,4.99,479.04
+21,2019-06-25,Central,Morgan,Pencil,90,4.99,449.1
+18,2019-05-05,Central,Jai,Pencil,90,4.99,449.1
+33,2020-01-15,Central,Gayatri,Marker,46,8.99,413.54
+43,2020-07-04,East,Jones,Pen Set,62,4.99,309.38
+29,2019-11-08,East,Priya,Pen,15,19.99,299.84999999999997
+16,2019-04-01,East,Jones,Marker,60,4.99,299.40000000000003
+26,2019-09-18,East,Jones,Pen Set,16,15.99,255.84
+27,2019-10-05,Central,Morgan,Marker,28,8.99,251.72
+25,2019-09-01,Central,Smita,Desk,2,125.0,250.0
+37,2020-03-24,Central,Jai,Pen Set,50,4.99,249.5
+11,2019-01-06,East,Jones,Pencil,95,1.99,189.05
+13,2019-02-09,Central,Jai,Pencil,36,4.99,179.64000000000001
+24,2019-08-15,East,Jones,Pencil,35,4.99,174.65
+15,2019-03-15,West,Soniya,Pencil,56,2.99,167.44
+48,2020-09-27,West,Soniya,Pen,76,1.99,151.24
+17,2019-04-18,Central,Andrews,Pencil,75,1.99,149.25
+36,2020-03-07,West,Soniya,Marker,7,19.99,139.92999999999998
+53,2020-12-21,Central,Andrews,Marker,28,4.99,139.72
+38,2020-04-10,Central,Andrews,Pencil,66,1.99,131.34
+31,2019-12-12,Central,Smita,Pencil,67,1.29,86.43
+40,2020-05-14,Central,Gayatri,Pencil,53,1.29,68.37
+19,2019-05-22,West,Thompson,Pencil,32,1.99,63.68
+22,2019-07-12,East,Howard,Marker,29,1.99,57.71
+51,2020-11-17,Central,Jai,Marker,11,4.99,54.89
+35,2020-02-18,East,Jones,Marker,4,4.99,19.96
+50,2020-10-31,Central,Andrews,Pencil,14,1.29,18.060000000000002
+47,2020-09-10,Central,Gayatri,Pencil,7,1.29,9.030000000000001
